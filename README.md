@@ -1,10 +1,10 @@
 #My First Web App
 # IT_Major
 
-Project
+Project:
 * Photo gallery: A web application where users are provided with a platform to store their photos and make albums. 
 
-Functionality
+Functionality:
 * File uploader uploads the users' images on the server and stores them there
 * Photo gallery displays the albums created in addition to the images uploaded
 * Photo gallery also displays the shared albums and photos on the home page of all the users registered.
